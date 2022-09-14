@@ -1,0 +1,5 @@
+rootProject.name = 'multi-parent'
+include 'clients:test-clients'
+include 'api:client-api'
+include 'api'
+
